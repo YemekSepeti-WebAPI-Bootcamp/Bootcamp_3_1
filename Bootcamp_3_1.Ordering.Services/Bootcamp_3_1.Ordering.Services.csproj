@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bootcamp_3_1.Ordering.Data\Bootcamp_3_1.Ordering.Data.csproj" />
+    <ProjectReference Include="..\Bootcamp_3_1.Ordering.Domain\Bootcamp_3_1.Ordering.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
